@@ -2,6 +2,9 @@
 
 
 ![AWS Certifed- Solution Architect Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png){: width="30" height="30"}
+
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="30" height="30"/>
+
 AWS Certifed- Solution Architect Associate
 
 ---
