@@ -5,9 +5,12 @@ https://www.credly.com/badges/f0279a06-06a9-47b4-ac82-f0f339ad9075/public_url
 
 ---
 Naver Cloud Platform Certfied
+
 ![NCP Certified Associate](https://edu.ncloud.com/public/img/associate.svg)
 Naver Cloud Certified Associate
+
 ![NCP Certified Professional](https://edu.ncloud.com/public/img/professional.svg)
+
 Naver Cloud Certified Professional
 ---
 <!--
