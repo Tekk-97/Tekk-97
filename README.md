@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+클라우드 아키텍터 겸, 엔지니어 겸, DevOps겸, MLOps 겸, AI 프롬폼터... + 웹 개발자
+
 <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
 AWS Certifed- Solution Architect Associate
 
