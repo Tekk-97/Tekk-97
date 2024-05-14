@@ -10,7 +10,6 @@ Naver Cloud Platform Certfied
 Naver Cloud Certified Associate
 
 ![NCP Certified Professional](https://edu.ncloud.com/public/img/professional.svg)
-
 Naver Cloud Certified Professional
 
 
