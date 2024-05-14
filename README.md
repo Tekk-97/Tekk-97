@@ -5,6 +5,8 @@ https://www.credly.com/badges/f0279a06-06a9-47b4-ac82-f0f339ad9075/public_url
 
 ![NCP Edu](https://edu.ncloud.com/public/img/logo.png)
 
+![NCP Edu1212](https://edu.ncloud.com/public/img/logo.png)
+
 ![NCP Certified Associate](https://edu.ncloud.com/public/img/associate.svg)
 
 ![NCP Certified Professional](https://edu.ncloud.com/public/img/professional.svg)
