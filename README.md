@@ -12,6 +12,9 @@ Naver Cloud Certified Associate
 ![NCP Certified Professional](https://edu.ncloud.com/public/img/professional.svg)
 
 Naver Cloud Certified Professional
+
+
+
 ---
 <!--
 **Tekk-97/Tekk-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
