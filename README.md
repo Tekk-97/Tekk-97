@@ -5,7 +5,7 @@ I am a cloud architect, engineer, DevOps, MLOps, AI promoter, and web developer.
 ## 🏅 Certifications
 
 ### AWS Certified - Solution Architect Associate
-![AWS Certified - Solution Architect Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
 
 ### Naver Cloud Certified
 
