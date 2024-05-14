@@ -3,8 +3,10 @@
 
 https://www.credly.com/badges/f0279a06-06a9-47b4-ac82-f0f339ad9075/public_url
 
-![NCP Certified Associate](![이미지 설명](/path/to/image.svg)
-)
+
+
+![NCP Certified Associate](https://edu.ncloud.com/public/img/associate.svg)
+
 
 <!--
 **Tekk-97/Tekk-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
