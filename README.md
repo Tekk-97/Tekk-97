@@ -38,6 +38,11 @@ I am mainly active in the field of cloud architecture and DevOps.
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=DevOps&logoColor=white">
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=MLOps&logoColor=white">
 
 
 ---
